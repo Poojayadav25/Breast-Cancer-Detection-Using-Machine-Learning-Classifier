@@ -32,14 +32,14 @@ I tried 7 different models:
 ## Model Performance :
 The XGBoost model far outperformed the other approaches on the test and validation sets.
 
-XGBoost Classifier : Accuracy = 98
-Support Vector Classifier : Accuracy =96
-Logistic Regression : 97
-Decision Tree Classifier : 94
-K-Nearest Neighbour Classifier : 94
-Naive Bayes Classifier : 94
-Adaboost classifier : 94.73
-Random forest classifier : 97
+- XGBoost Classifier : Accuracy = 98
+- Support Vector Classifier : Accuracy =96
+- Logistic Regression : 97
+- Decision Tree Classifier : 94
+- K-Nearest Neighbour Classifier : 94
+- Naive Bayes Classifier : 94
+- Adaboost classifier : 94.73
+- Random forest classifier : 97
 ## conclusion:
 Breast Cancer Detection App Using Machine Learning XGBoost Classifier
 
