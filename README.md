@@ -1,7 +1,11 @@
 # Breast-Cancer-Detection-Using-Machine-Learning-Classifier
 ## Goal of the ML project
 We have extracted features of breast cancer patient cells and normal person cells. As a Machine learning engineer / Data Scientist has to create an ML model to classify malignant and benign tumor. To complete this ML project we are using the supervised machine learning classifier algorithm.
+
+
 ![images](https://user-images.githubusercontent.com/90573789/158646640-f5e4d8fb-a34e-4510-866f-f15e98e6de2e.jpg)
+
+
 Simple App which can detect Weather they have Cancer or not depending up on users data provided to the application.
 
 - Created an app that detects wheather they have Cancer or not to help doctors with 98% accuracy .
@@ -41,7 +45,7 @@ The XGBoost model far outperformed the other approaches on the test and validati
 - Adaboost classifier : 94.73
 - Random forest classifier : 97
 ## conclusion:
-Breast Cancer Detection App Using Machine Learning XGBoost Classifier
+Breast Cancer Detection App Using Machine Learning model is  XGBoost Classifier
 
 
 
